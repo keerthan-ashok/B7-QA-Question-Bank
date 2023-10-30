@@ -1,0 +1,179 @@
+1.	What is Linux and what is its significance in the world of operating systems?
+2.	What is the difference between Linux and Unix?
+3.	How do you check the current version of Linux?
+4.	How do you list files and directories in Linux?
+5.	How do you navigate between directories in Linux?
+6.	What is the purpose of the ls command in Linux?
+7.	How do you create a new directory in Linux?
+8.	How do you create a new file in Linux?
+9.	How do you copy files and directories in Linux?
+10.	How do you move files and directories in Linux?
+11.	How do you delete files and directories in Linux?
+12.	What is the purpose of the chmod command in Linux?
+13.	How do you change file permissions in Linux?
+14.	How do you change ownership of a file or directory in Linux?
+15.	What is the purpose of the grep command in Linux?
+16.	How do you search for a specific pattern in a file using grep?
+17.	How do you compress and decompress files in Linux?
+18.	How do you find files in Linux based on different criteria?
+19.	How do you view the content of a file in Linux?
+20.	Scenario: How do you check the available disk space in Linux?
+21.	Scenario: How do you kill a running process in Linux?
+22.	Scenario: How do you schedule a task to run at a specific time using cron in Linux?
+23.	Scenario: How do you configure a network interface with a static IP address in Linux?
+24.	What is the purpose of the sudo command in Linux?
+25.	How do you install software packages using package managers in Linux (e.g., apt, yum)?
+26.	How do you update the Linux operating system and installed packages?
+27.	What is the purpose of the Linux kernel?
+28.	How do you check system resource usage in Linux (e.g., CPU, memory)?
+29.	How do you view and manipulate environment variables in Linux?
+30.	How do you manage users and groups in Linux?
+
+
+......................................................................................................
+
+Linux Questions : collected by Nayeem
+
+1. what is the internal and external commands with examples
+2. why we need sudo for external commands.
+3  what is touch command
+4. how to delete directory and all its content.
+5. how to search the pattern in
+6. what is the use of VIM
+7. what are the commands you used?
+8. how wq works and how q works in vi editor.
+9. what options you comee across in VI like insert, command.
+10. can you explain the pwd command
+11. what is shebang
+12. what is the path you need to enter while running script
+13. what is ls -lr
+14. what is the difference between append shell scripting
+15. what are the differnet types of shell scripting you came across
+16. what is the $ sign in shell screpting
+17. what is the difference in vi and vim
+18. what is local and root directory in linux
+19. what is the difference in mv and cd command.
+20. what is the differenc in rm and rm -r
+21. what does grep command do, grep -v
+22. what does mv command do?
+23. what does grep command do?
+24. What does pwd do?
+25. what does man do?
+26. how to create multiple directory?
+27. how to delete directly and how to delete directory with content.
+28. how to create multiple files at a time
+29. how will you create temparory file
+30. how to read the file with out opening.
+31. what is difference in cp and mv.
+32. have you come across head and tile and what does it do?
+33. list the words and characters inside the file.
+34. what is wget?
+35. what does find and sed command do ?
+36. what is tar command does?
+37. what are the file permission you came across?
+38. can you tell about the ls flags.
+39. what rsync
+40. what does cp command do
+41. what does cat command do?
+42. By default head print how many lines.
+43. how to print last 2 lines.
+44. what grep -e do ?
+45. what are the options you use in vi editor?
+46. if you want to search the pattern in editor.
+47. difference between internal and external command?
+48. if i want to give permission to execut permission to user. how will you give that?
+49. what is the use of chmod?
+50. what is the use of ls.
+51. how will ou knwo in which directory you are in.
+52. how will you sort the files and directory in assending order.
+53. what cat command do.
+54. what echo command do.
+56. how to append text from one file to other file.
+57. what is the difference between overwrite and append.
+58. what is the difference in head and tail.
+59. what does grep command do ?
+60. what is the difference in wq and wq! in vi.
+61. waht is teh dd do inside vi editior?
+62. if i wnat to delete 5 lines from begin of the file?
+63. what less command do.
+64. what does chmod command do
+65. can you tell the flags of ls
+66. what is the difference in cp and mv
+67. what is the difference in internal and external commands
+68. what is the difference in overright and append.
+69. difference in > and >> ?
+70. what does grep command do ?
+71. differencein vi and vim.
+72. how to move cursur to biginning of next word.
+73. what does $ do in vi.
+74. how to move cursor to end of current line.
+75. what does pwd do ?
+76. how to change directory.
+77. how to come to parent directory in 3 highirechy.
+78. how to come to home directory.
+79. ls flags.
+80. what is the difference between overwriten and append.
+81. have you come across rsunc?
+82. difference and rmdir, rm -rf.
+83. how to crate a temparory file.
+84. difference in head and tail.
+85. differenc in cat and less?
+86. how to see contents of the fiel inside editor.
+87. hwo to add content in vi editor.
+88. how to delete 3 lined from starte of vi editor?
+89. what is the dw does?
+90. what does top command do ?
+91. how will you list only directory.
+92. disk usage command.
+93. different in ls -l and ls -lr
+94. what does grep command do.
+95. what does chmod command do?
+96. sort command.
+97. differenc in cat and less.
+98. how to rename file.
+99. how to print default 10 lines.
+100. wc command.
+101. how to crate temp file.
+102. how to creat multiple files in one go.
+103. inside vi editor, i want to quit file with our saving.
+104. delete character where cursor is placed.
+105. how undo in vi editior.
+106. how to delete lat 5 lines in vi editor.
+107. how to replace 1 character inside vi editor.
+108. how to search pattern in vi editior.
+109. command you used in few days.
+110. flavours of linux.
+111. types of shell scripting.
+112. sed command.
+113. delete n lined from current line
+114. how to delete character in backward direction
+115. differenc in cat and open.
+116. differenc in rm and rm -f.
+117. you opene	 3 direction you to come out all the directory.
+118. what does esc do in vi editor.
+119. what dw do?
+120. vi editing commands
+121. differenc in :q and :wq
+122. how to create number of files.
+123. differenc in cp and mv.
+124. how to rename file.
+125. wht does cp -r do?
+126. ls options.
+127. history command.
+128. what does touch command do ?
+129. remove content in file.
+130. overwrite content of files:
+131. what is the differenc in copy and move.
+132. how to rename file?
+133. what is differenc in cat and less.
+134. how to display top 7 lines and bottom 7 lines in file.
+135. what does man command do?
+136. inside vi editor, what does esc does?
+137. how to delete 4 words in vi editor.
+138. how to search pattern in vi editor
+139. how to replace pattern in vi editor?
+140. how to lsit number of lines.
+141. how to remove line number
+142. how to replace character in vi editor
+143. disk usage and disk command
+144. how to rename file.
