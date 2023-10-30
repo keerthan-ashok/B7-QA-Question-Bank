@@ -1,0 +1,30 @@
+Shell Script Questions:
+
+1.	Which shell script you are aware of?
+2.	Write a shell script to create a Fibonacci series!
+3.	Write a shell command to remove the log files which has greatest than 500mb and the same log files which are older than 30 days?
+4.	What is the recent shell script you written in your project?
+5.	Read a string and split them one by one, then display is using shell script, explain what are the field separator you are going to use
+6.	In Linux if you want to check the disk space and uptime, write a shell script to these 2 and which will run as a cron
+7.	What are the shell scripts you have written?
+8.	Have you written any shell script?
+9.	Write an automation script for backing up the logs
+10.	What is Exit status? How do you capture it?
+11.	What is #!
+12.	Write a script to define Modular logs
+13.	How do you pass command-line arguments to a shell script?
+14.	How can you check if a file exists in a shell script?
+15.	How do you iterate over files in a directory using a shell script?
+16.	What is the difference between single quotes and double quotes in shell scripting?
+17.	How can you read input from the user in a shell script?
+18.	What is the purpose of the shebang line in a shell script? Why is it important?
+19.	How do you define and call a function in a shell script?
+20.	What are exit codes in shell scripting, and how can they be used?
+21.	How do you redirect output to a file in a shell script?
+22.	What is command substitution in shell scripting, and how is it used?
+23.	How do you handle errors and exceptions in a shell script?
+24.	What are environment variables, and how can you access them in a shell script?
+25.	How can you execute a command in the background using a shell script?
+26.	How do you compare strings in a shell script?
+27.	How can you check if a directory exists and create it if it doesn't exist in a shell script?
+
