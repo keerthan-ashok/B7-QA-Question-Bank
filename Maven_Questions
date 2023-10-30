@@ -1,0 +1,23 @@
+Maven Questions:
+
+1.	What is Apache Maven and what is its purpose?
+2.	How does Maven handle project dependencies?
+3.	What is the POM (Project Object Model) in Maven?
+4.	What are the different phases of the Maven build lifecycle?
+5.	How do you create a new Maven project using the command line?
+6.	What is the purpose of the <dependency> element in a Maven POM?
+7.	What is the purpose of the mvn clean command?
+8.	How do you specify a specific version for a Maven dependency?
+9.	How can you skip running tests during a Maven build?
+10.	What is the purpose of the repositories in a Maven?
+11.	How can you customize the Maven local repository location?
+12.	How do you create a Maven multi-module project?
+13.	What is the difference between the mvn install and mvn deploy commands?
+14.	What is the purpose of the <plugins> section in a Maven POM?
+15.	How do you execute a specific Maven plugin goal?
+16.	How can you specify custom build profiles in Maven?
+17.	What is the purpose of the Maven Compiler Plugin?
+18.	What is the purpose of the mvn site command?
+19.	How do you exclude specific files or directories from the Maven build process?
+20.	How do you handle Maven build failures and troubleshoot errors?
+
