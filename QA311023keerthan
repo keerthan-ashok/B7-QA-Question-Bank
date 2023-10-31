@@ -1,0 +1,8 @@
+Questiones asked for keerthan
+Date - 31-10-23023 (visuwesh)
+
+1. What is the difference between mvn clean install & mvn deploy?
+
+2. Scenario: If you are not able to access the tomcat and when you hit the browser with localhost:8080, if it is showing you the error, then how will you resolve this issue?
+
+3. What is the difference between 'Wget' and 'curl' command?
