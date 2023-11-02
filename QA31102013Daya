@@ -1,0 +1,8 @@
+1. Can we use the same port num to run the two or more tomcat?
+
+
+2. Command used to update the Dependency/
+
+   mvn -U update.
+
+3. What is Git Pull? 
