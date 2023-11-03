@@ -1,0 +1,17 @@
+1. What is difference between CI/CD?
+CI is more about getting the code ready to be released (build/test), while CD is the actual release of the code (release/deploy).
+
+2. What is jenkins build artifact?
+It is an immutable file, generated during a Build or Pipeline run in Jenkins. These artifacts are then archived onto the Jenkins Controller for later use.
+
+3. What are the stages in Jenkins pipeline?
+Usually there are three stages in jenkins pipeline - “Build”, “Test”, and “Deploy”
+
+4. How to update Jenkins plugins?
+Updates are listed in the Updates tab of the Plugins page and can be installed by checking the checkboxes of the desired plugin updates and clicking the Download now and install after restart button. By default, the Jenkins controller will check for updates from the Update Center once every 24 hours.
+
+5. What are two types of authorization?
+i) Matrix-based security:
+This authorization scheme allows for granular control over which users and groups are able to perform which actions in the Jenkins environment
+ii) Project-based Matrix Authorization Strategy
+This authorization scheme is an extension to Matrix-based security which allows additional access control lists (ACLs) to be defined for each project separately in the Project configuration screen. This allows granting specific users or groups access only to specified projects, instead of all projects in the Jenkins environment.
