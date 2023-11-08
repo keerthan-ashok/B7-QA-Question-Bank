@@ -1,0 +1,56 @@
+Questions asked on 8/11/23 - Jenkins - Manoj - B1
+
+1. How you will secure jenkins?
+1Ans - Restrict Access: Use strong passwords, role-based access control (RBAC), and multi-factor authentication (MFA) to restrict access to Jenkins.
+SSH for Communication: Use SSH keys for secure communication between the Jenkins master and slave nodes.
+Up-to-date Jenkins and Plugins: Keep Jenkins and its plugins up to date with the latest security patches and vulnerability fixes.
+Enable Audit Logging: Track user activity and changes made to Jenkins with audit logging.
+Harden Jenkins Agents: Apply security patches, disable unnecessary services, and restrict network access to Jenkins agents.
+Vulnerability Scanning: Regularly scan Jenkins and its plugins for vulnerabilities.
+Limit Plugin Usage: Use only plugins from trusted sources and limit the number of plugins used
+Isolate Jenkins from Production Networks: Deploy Jenkins in a separate network segment to isolate it from production systems.
+Monitor Jenkins Activity: Continuously monitor Jenkins activity for suspicious behavior or potential security incidents.
+Vulnerability Disclosure Policy: Establish a vulnerability disclosure policy for responsible reporting of vulnerabilities.
+
+
+
+
+2. Where the credentials are stored in jenkins?
+2Ans - jenkins stores credentials in an encrypted form on the controller Jenkins instance. The encryption key is stored in a separate file called master.key. The credentials are stored in a file called credentials.xml. Both of these files are located in the $JENKINS_HOME directory.
+
+
+
+
+3. What is downstream project and upstream project?
+3Ans - A downstream project is a project that depends on the output of another project. For example, a project that builds and tests an application would be a downstream project of the project that compiles the source code.
+An upstream project is a project that provides the output that is used by another project. For example, a project that compiles source code would be an upstream project of the project that builds and tests an application.
+Downstream and upstream projects can be triggered automatically when the output of the upstream project changes. This is known as continuous integration (CI).
+
+
+
+
+4. What is jenkinsfile?
+4Ans - A Jenkinsfile is a text file that contains the definition of a Jenkins Pipeline. Pipelines are a way to automate the software development lifecycle, from build to deployment. Jenkinsfiles are written in Groovy, a scripting language that is similar to Java.
+
+
+
+
+5. What is LDAP intigration in jenkins?
+5Ans - LDAP (Lightweight Directory Access Protocol) integration in Jenkins refers to the process of integrating Jenkins with an LDAP server for user authentication and authorization. LDAP is a standard protocol for accessing and maintaining directory information services, and it is commonly used for centralized user management and authentication in enterprise environments.
+
+By integrating Jenkins with an LDAP server, you can achieve the following benefits:
+
+Centralized User Management: LDAP integration allows you to centralize user management, authentication, and authorization, enabling users to use their existing LDAP credentials to log in to Jenkins.
+
+Single Sign-On (SSO): LDAP integration can enable single sign-on functionality, allowing users to log in to Jenkins using their LDAP credentials without the need for separate Jenkins-specific accounts.
+
+Role-Based Access Control (RBAC): LDAP integration facilitates the implementation of role-based access control (RBAC) in Jenkins, enabling you to define and enforce user roles and permissions based on LDAP group memberships and attributes.
+
+User Synchronization: LDAP integration enables user information synchronization between Jenkins and the LDAP server, ensuring that user details and permissions are up to date and consistent across both systems.
+
+Security and Compliance: LDAP integration enhances security and compliance by enforcing centralized authentication policies and ensuring that user access to Jenkins is managed and monitored centrally.
+
+By configuring LDAP integration in Jenkins, you can streamline user management, improve security, and simplify the authentication and authorization process for Jenkins users, especially in enterprise environments where centralized user management is critical.
+
+
+
