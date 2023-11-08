@@ -1,0 +1,9 @@
+1. How do you back-up jenkins configurtions?
+Create a new dir 'back-up' in /var/lib/jenlins -> give write permission to it using 'chmod' -> add the path of 'backup' dir to Thinbackup plugin settings -> Choose what all needs to be backed up in the given options -> Click on 'Backup'
+
+2. What is blueocean?
+Blue Ocean as it stands provides easy-to-use Pipeline visualization. It was intended to be a rethink of the Jenkins user experience, designed from the ground up for Jenkins Pipeline. 
+Blue Ocean was intended to reduce clutter and increases clarity for all users.
+
+3. What is jenkins build artifact?
+They are immutable file, generated during a Build or Pipeline run in Jenkins. These artifacts are then archived onto the Jenkins Controller for later use.
