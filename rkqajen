@@ -1,0 +1,68 @@
+10-11-23:rk sir
+
+what is jenkins
+what is cicd
+explain different jobs in jenkins
+features of jenkins
+diff types of pipelines
+in a declerative if we want run agent any what to set up
+std structure of declerative pipeline
+plugins 
+how to take backup-manually and thinbackup
+how to copy jenkins from server a to server b
+build periodically and poll scm diff
+there are two jobs are running one job is executed and second failed-willl u restart from beginning or run failed job-start from which failed
+compare maven and jenkins
+what is agent in jenkins-it will tell where to execute pipeline
+if u want to configure 3rd party tools in jenkins what will u do?- we need to check is the plugin available or if not customise it.
+how to integrate git with jenkins-by default it will be there if not we can add plugin using available plugins
+default enviornomental variables in jenkins- workspace, job name, pipeline,
+what we can do for broken build in the project- 
+what is the use of master slave , why we need multiple slave
+master-jenkins main server, slave-on which we run jobs 
+how to add slave machine to master-3ways-websocket,username and password, sshkey-in add nodes options
+what is no of executors-multiple jobs parallely on same server-ex:if two executors- 2jobs on same server parallely
+multibranch pipeline
+diff b/w freestyle and pipeline
+how we can store credentials in jenkins
+RBAC plugin use
+parameterized pipeline
+B
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+how to configure jenkins agent-manage jenkins-nodes-new nodes-permanent agent
