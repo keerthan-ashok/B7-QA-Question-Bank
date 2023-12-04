@@ -1,0 +1,108 @@
+Important Questions on Azure Cloud
+
+> Visuwesh QA Questions
+
+Why do we need resource group?
+What is the purpose of Virtual Network?
+What is Private and Public IP Address?
+How do you diffrentiate Private and Public IP?
+How many types of VMs can we create in Azure in terms of operating system?
+What is Availability Zone?
+What does Image Represent?
+How can we subnet 10.0.0.0/16?
+Purpose of availability Set?
+what is Bastion Host / Service?
+Port number of RDP and how do you connect through azure console?
+why do we need subnet?
+can we use customise image in the image place?
+use cases of network peering?
+if i have three networks is it possible to do network peering?
+what is inbound and outbound rules?
+what are the series w.r.t sizes in azure ex: b1 series, dv4 series?
+what is scaling in VM?
+what is command to connect to a VM?
+purpose of NSG?
+what is the help of capture in VM?
+is it possible to start the VM by the created image? > YES!
+what is a disk?
+what is NIC?
+purpose of RDP?
+how to upgrade a VM w/o having a data disturbance?
+how can you automate start and stop operation of a VM?
+how many port numbers we can restrict?
+how can i log in to VM w/o private key and password?
+suppose we have web app which uses B1 family, client has to use B2 family w/o data loss or disturbance is it possible?
+what is fault domain & update domain?
+what are the options you get towards your left side while creating VM?
+what is Vnet and Subnet?
+when do we use NSG?
+what is availability set?
+what is D.DOS attack how can we prevent it?
+what is address space?
+how can i secure my VM?
+what is NIC?
+where we use Publiv IP and NSG?
+what is service principle? what is its importance?
+where will we use service principle concept in Azure cloud?
+what is 2 tier and 3 tier architecture?
+use cases of Public IP and Private IP?
+How many ways we can troubleshoot our VM?
+what is private endpoint and service endpoint?
+how can i do bastian and backup of my VM?
+diff b/w network peering and Subnet?
+how can i update a vm from one size to another w/o disturbing data?
+what is hot tier container?
+what is storage a/c service?
+purpose of table storage?
+what are the scenarios where we can't do network peering?
+Even after enabling port of 8080, I'm unable to access the port so how to troubleshoot this?
+where you will asign the private subnet in azure portal?
+what is redundency?
+
+
+> Manoj QA Qauestions
+
+
+what is Azure?
+list the Examples of IAAS PAAS SAAS?
+what are service modules?
+what is Virtual Machine?
+What is Vnet?
+Is vnet is a isolation network or not?
+diff b/w traditional VM and Azure VM
+diff b/w azure and azure devops?
+diff types of disks in azure cloud?
+what is virtual machine scale set?
+what is cloud module?
+what is cloud computing?
+which cloud module is it when 50 vm in local and 50 vm in azure data centers connected to each other? 
+which service module will help to deploy the application to azure services?
+what are shared responsibilities in azure?
+what are availability zones and regions?
+what is lsblk? where and when you use it?
+what is azure resource manager? what is ARM?
+diff b/w server and VM?
+what is variable length subnet masking?
+what is IP address?
+can we create a nested resource groups like one inside the other?
+what is subnet masking?
+how to secure our VM?
+list the competitors of azure?
+diff b/w AWS and Azure?
+why you opted or prefer Azure?
+in which module Virtual Machine falls in?
+what is VPN?
+what is resource groups?
+why we need reource group in Azure?
+How can we manage our resource groups?
+what is Azure AD? / What is Azure Active Directory?
+Why we need Azure active directory?
+what is address sapce?
+what is IP range?
+where we can find the hardware of virtual machines that we created in cloud??
+what is network?
+expalin the BTS (Behind The Scenes) when you create a VM in Azure cloud / any cloud platform?
+As a DevOps engineer why we need Azure?
+what is capital expenditure and service expenditure?
+
+how to get ext4 UUID in bash?  >  syntax: sudo blkid -s UUID -o value /dev/sdc (for sdc)
