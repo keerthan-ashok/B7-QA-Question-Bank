@@ -1,0 +1,35 @@
+Use case of network peering.
+Network security group
+What is inbound and outbound security, necessity of both.
+Types of vm based on size---> B- series, D-series
+How to connect to vm --> Ssh -I key username@ipaddress
+Purpose of network security group
+Use case of inbound and outbound.
+Purpose of capture in azure? --> what is the use case?
+How to mount the disk?
+What is NIC
+Rdp?
+How to upgrade the vm. --> vm1.0 to vm.1.2
+How to schedule shutdown time for vm
+Use case of network security group.
+What are the port number and how many ports can be restrict or allow.
+What is disk and purpose of disk?
+If I lost private key, how to login to the vm. How to retrieve it.
+We have web application, we have d family vm, my claint is asking to d5, how to do without loosing data.
+what is fault domain and what is update domain.
+What is DDOS attach? How can we prevent in azure?
+What is the address space.
+How to secure my VM.
+Where will you use NSG and when we use private IP.
+What is service principle and its important, how to integrate in azure cloud.
+What is 3 or 2 tire architecture --> software development, front end back end and data base.
+What is private and public subnet. Where will we use this.
+Where we will use vnet and where we use subnet.
+
+
+How to make 2 private subnet and 1 public subnet from above in azure.
+What is the purpose of capture.
+What is bastion service, where and how we use.
+Nayeem --> If there are error in any azure vm, how do you resolve it what are the ways.
+What is private end point and what is service end point.
+How can I backup my vm and basten serve use case.
