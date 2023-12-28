@@ -1,0 +1,117 @@
+Date - 28 12 23
+CK QA
+
+1. How to find out which application is consuming more resource in linux? 
+- TOP cmd
+
+2. Scenario - What you will do to if you already made changes in local repo by commiting it but later you came to know that you could have not commited it so which command you will use? 
+- git revert
+
+3. Give the diff b/w git revert and git reset?
+
+4. what is git revert --mixed? 
+
+5. what is Function Script?
+
+6. why do you use rebase command in git?
+
+7. what is git ls -tree? - it is regarding repository
+
+8. write the shell script - There are alphabets in CAPS & NO CAPS 
+
+9. How can you manage error handling in shell scripting?
+
+10. scenario - which backup ur writing shell script? To clearing the application log files after certain days.
+
+11. can you explain about while loop?
+
+12. Have you configured any WEB ROLE in Azure AAD?
+
+13. How does roll back works in git? what are the commands we can use to roll back anything in git?
+
+14. Can you give the diff b/w fetch and pull in git?
+
+15. what are the benifits we have in Version control system?
+
+16. do you have any idea about customised merge?
+
+17. what is inode?
+- Information Node is a node which contains meta information
+
+18. how to list the ports in linux?
+
+19. can you explain about Rsync command in linux?
+
+20. in a branching startegy we have hot bug fix, what is that?
+
+21. Have you heard about deployment environment so in which env we can consider the bug / in which env you can find the bug and fix it?
+- Production / Pre Production Env > pull from here and they will look for hot fix (immediate fix) 
+
+22. what is the purpose of git stashing?
+
+23. diff b/w HTTP & HTTPS?
+
+24. what are the port numbers of HTTP & HTTPS?
+
+25. how to check the kernel version in linux? 
+- lsb_release -a
+
+26. can we copy a commit from 1 branch to other in git what are the steps?
+- git cherrypick <commit_id>
+
+27. script to write - To check the load of machine every 15 days?
+
+28. How do you process the automation using shell script?
+
+29. what are the automations things you have done in shell script?
+- *creating backups for desired time intervals, *getting the data from the machine to analyize the process, *scheduled deletion of cache and tmp files, *cron job, *to check the threshold of memory reach and send the alerts on same, 
+(when the server down we need to check the logs there, to check the unknown entry to server we check logs)
+
+30. how to run a shell script in background?
+- use '&' in the end of commads - EX: sh name.sh &
+
+31. we will define the variable in sh script? then how long those variables stays?
+
+32. what is this pull request in git?
+
+33. what is the merge request in git?
+
+34. suppose we have 100 commits in local and i want to push all those commits in one go how can you achive that?
+
+35. what does the HEAD pointer do in git?
+
+36. can you give any examples of what ever you included in jenkins pipeline?
+
+37. why we need this MASTER SLAVE concept in jenkins?
+
+38. diff b/w declarative and scripted pipeline?
+
+39. scenario - i want create 1 storageaccount 20 container at end i need to add some sequence number in azure. write script?
+
+40. if interviewer asks have you written any shell script then what will be your response to it?
+
+41. suppose you have configured your machine to Mobaxtrem to use as a cli so how will you get the backup from there and why do you need backup? where you will post that backup? - this is encountered question for prev one.
+
+42. can you explain the branching strartegy?
+
+43. Practically how you use branching startegy?
+
+44. what actually people do? do they work with code or aplication?
+
+45. why they have pull in testing env?
+will they test the code or application?
+
+46. give the reason behind webhook?
+
+47. what are the build triggers in jenkins?
+
+48. what do you recommend poll scm / webhook?
+
+49. what is break and exit in sh script?
+
+50. how will i connnect the slave in winows OS?
+- install java and lengthy process
+
+51. how can you check the set of developer changes in the specific code and who has done the particular change happened?
+
+52. in jenkins UI how can you check the developer/author did the changes to code?
